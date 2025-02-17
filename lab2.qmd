@@ -237,8 +237,7 @@ top_3_slowest
 #answer: The top 3 fastest growing species were Pinus resinosa, Populus tremuloides, and Pinus banksiana. The 3 slowest growing species were Quercus rubra, Thuja occidentalis, and Larix laricina. 
 ```
 ```{r}
-#Image
-image: images/pire.jpg
-# This is an image of the fastest growing species from the dataset which is Pinus resinosa. 
+
+# There is an image of the fastest growing species from the dataset which is Pinus resinosa in the images folder found on github.  
 
 ```
